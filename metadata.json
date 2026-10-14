@@ -1,0 +1,6 @@
+{
+  "name": "TradeFlow: Inventory, Billing & CRM",
+  "description": "Complete retail and wholesale inventory management, automated GST billing, client CRM, ₹299/mo subscription billing with Razorpay payment gateway, and Google-grounded Gemini AI copilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
